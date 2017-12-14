@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AndroidStudio3Test</string>
+    <string name="memory_leak_analysis">内存泄漏分析</string>
+</resources>
